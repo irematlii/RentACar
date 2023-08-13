@@ -1,0 +1,154 @@
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Form1.resources
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAnaSayfa.resources
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriEkle.resources
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.exe
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.deps.json
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriListele.resources
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçKayıt.resources
+C:\Users\Lenovo\source\repos\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçListele.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.exe
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.deps.json
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.json
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.dev.json
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.AssemblyReference.cache
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Form1.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAnaSayfa.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçKayıt.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçListele.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriEkle.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriListele.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Properties.Resources.resources
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.GenerateResource.cache
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfoInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfo.cs
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CoreCompileInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CopyComplete
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.genruntimeconfig.cache
+C:\Users\irema\OneDrive\Masaüstü\Yeni klasör\ara-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Kiralamalar.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.exe
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.deps.json
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.json
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.dev.json
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.AssemblyReference.cache
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Form1.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAnaSayfa.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçKayıt.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçListele.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriEkle.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriListele.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Kiralamalar.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Properties.Resources.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.GenerateResource.cache
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfoInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfo.cs
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CoreCompileInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CopyComplete
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.genruntimeconfig.cache
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Giris.resources
+C:\Users\irema\OneDrive\Masaüstü\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Raporlar.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.exe
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.deps.json
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.json
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.dev.json
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.AssemblyReference.cache
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Form1.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAnaSayfa.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçKayıt.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçListele.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriEkle.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriListele.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Giris.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Kiralamalar.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Properties.Resources.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Raporlar.resources
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.GenerateResource.cache
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfoInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfo.cs
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CoreCompileInputs.cache
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CopyComplete
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.dll
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.pdb
+C:\Users\irema\OneDrive\Masaüstü\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.genruntimeconfig.cache
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.exe
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.deps.json
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.json
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.runtimeconfig.dev.json
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\araçkiralama2.pdb
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.AssemblyReference.cache
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Form1.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAnaSayfa.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçKayıt.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmAraçListele.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriEkle.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.frmMüşteriListele.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Giris.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Kiralamalar.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Properties.Resources.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.Raporlar.resources
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.GenerateResource.cache
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfoInputs.cache
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.AssemblyInfo.cs
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CoreCompileInputs.cache
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.csproj.CopyComplete
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.dll
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.pdb
+D:\FOTOĞRAFLAR\Araştırma Projesi\ara-kiralama\araç-kiralama\araçkiralama2\araçkiralama2\obj\Debug\netcoreapp3.1\araçkiralama2.genruntimeconfig.cache
